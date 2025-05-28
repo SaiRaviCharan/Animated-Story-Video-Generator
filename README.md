@@ -7,7 +7,7 @@ A creative AI project that generates full multimedia stories using text prompts 
 
 ## 📺 Demo
 
-🎥 [Watch the full demo video on LinkedIn](https://www.linkedin.com/in/yo/)
+🎥 [Watch the full demo video on LinkedIn](https://www.linkedin.com/posts/sai-ravi-charan-neerumalla-b04740278_generativeai-geminiai-googlecloudconsole-activity-7329141148290052097-YtL0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEO9njQB7CuXSy1YHVq1b3-RgrRro9m38pk)
 
 
 ## 🚀 Features
